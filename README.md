@@ -2040,7 +2040,6 @@ function DiscordLib:Window(text)
 			currentservertoggled = Server.Name
 			fs = true
 		end
-print("Icxy Is King!")
 		local ChannelHold = {}
 		function ChannelHold:Channel(text)
 			local ChannelBtn = Instance.new("TextButton")
